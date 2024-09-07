@@ -1,8 +1,8 @@
 # Gestion des Commandes
+Ce projet implémente un composant métier pour la gestion des commandes en JavaScript. Il permet d'effectuer les opérations CRUD (Créer, Lire, Mettre à jour, Supprimer) sur les entités principales : Clients, Produits, Commandes, et Détails des Commandes.
 
 ## Modelisation du projet
 [uml](./assets/uml.png)
-Ce projet implémente un composant métier pour la gestion des commandes en JavaScript. Il permet d'effectuer les opérations CRUD (Créer, Lire, Mettre à jour, Supprimer) sur les entités principales : Clients, Produits, Commandes, et Détails des Commandes.
 
 ## Prérequis
 - Node.js installé sur votre machine (version 12 ou supérieure).
